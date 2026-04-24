@@ -18,7 +18,7 @@ const Services = () => {
     },
     {
       icon: <GraduationCap className="w-8 h-8" />,
-      title: "Skill Development Programs",
+      title: "Company Services ",
       description: "Professional training and certification programs for technical advancement.",
       features: ["Expert-led training", "Certification programs", "Skill assessments", "Career guidance"]
     },
