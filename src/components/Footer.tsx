@@ -39,12 +39,12 @@ const Footer = () => {
             <ul className="space-y-2 text-estate-300">
               <li>
                 <a 
-                  href="https://www.rataindia.com/" 
+                  href="https://www.ductovent.in/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  RATA
+                  Ductovent
                 </a>
               </li>
               <li>

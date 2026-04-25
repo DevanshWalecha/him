@@ -52,7 +52,7 @@ const Hero = () => {
     },
     {
       title: "Society Services",
-      description: "Technical Community Management For Societies like RATA, FOCUS, SIE"
+      description: "Technical Community Management For Societies like Ductovent, FOCUS, SIE"
     },
     {
       title: "Company Services",
