@@ -20,7 +20,7 @@ const Services = () => {
       icon: <GraduationCap className="w-8 h-8" />,
       title: "Company Services ",
       description: "Professional training and certification programs for technical advancement.",
-      features: ["Expert-led training", "Certification programs", "Skill assessments", "Career guidance","Backend Services"]
+      features: ["Expert-led training", "Certification programs", "B2B Meetings", "Career guidance","Backend Services"]
     },
     {
       icon: <CalendarDays className="w-8 h-8" />,
