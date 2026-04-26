@@ -52,11 +52,11 @@ const Hero = () => {
     },
     {
       title: "Society Services",
-      description: "Technical Community Management For Societies like Ductovent, FOCUS, SIE"
+      description: "Technical Community Management For Societies like FOCUS, SIE"
     },
     {
       title: "Company Services",
-      description: "Social Media Marketing,Marketing Flyer Design"
+      description: "Social Media Marketing,Marketing Flyer Design,Backend Services"
     }
   ];
 
@@ -72,7 +72,7 @@ const Hero = () => {
     ,
     {
       title: "Industry Partnerships",
-      description: "Collaborative Solutions"
+      description: "Collaborative Solutions,B2B Meetings"
     }
   ];
 

@@ -14,13 +14,13 @@ const Services = () => {
       icon: <Users className="w-8 h-8" />,
       title: "Technical Society Services",
       description: "Complete management solutions for engineering societies and professional organizations.",
-      features: ["Membership management", "Communication tools", "Resource sharing", "Community building","Organizing conferences and technical workshops","Social media marketing","Marketing flyer design"]
+      features: ["Communication tools", "Resource sharing", "Community building","Organizing conferences and technical workshops","Social media marketing","Marketing flyer design"]
     },
     {
       icon: <GraduationCap className="w-8 h-8" />,
       title: "Company Services ",
       description: "Professional training and certification programs for technical advancement.",
-      features: ["Expert-led training", "Certification programs", "Skill assessments", "Career guidance"]
+      features: ["Expert-led training", "Certification programs", "Skill assessments", "Career guidance","Backend Services"]
     },
     {
       icon: <CalendarDays className="w-8 h-8" />,
